@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "rest-client.environmentVariables": {
+        "development": {
+            "baseURL": "http://localhost:1234/api/v1"
+        }
+    }
+}

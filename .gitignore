@@ -1,0 +1,5 @@
+node_modules
+logs
+.DS_Store
+src/server/environment/secrets.js
+.husky
